@@ -1,6 +1,6 @@
 # 📄 AskDocs — Pregúntale a tus documentos
 
-AskDocs nació de una necesidad muy concreta: a veces tienes un documento de 80 páginas y solo necesitas encontrar una respuesta específica. Leerlo completo toma horas. AskDocs lo hace en segundos.
+AskDocs nació de una necesidad muy concreta: a veces tienes un documento de x cantidad páginas y solo necesitas encontrar una respuesta específica. Leerlo completo toma horas. AskDocs lo hace en segundos.
 
 Sube cualquier PDF — un contrato, un manual técnico, un paper académico — y hazle preguntas en lenguaje natural. El sistema encuentra las partes relevantes y responde con precisión citando el documento.
 
