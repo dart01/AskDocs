@@ -8,7 +8,7 @@ Sube cualquier PDF — un contrato, un manual técnico, un paper académico — 
 
 ## Demo en vivo
 
-👉 [Probar AskDocs](#) ← próximamente en Hugging Face Spaces
+👉 [Probar AskDocs] (https://huggingface.co/spaces/dart01/askdocs)
 
 ---
 
